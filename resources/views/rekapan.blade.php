@@ -402,7 +402,7 @@
             // Add percentage section using data from backend (more accurate)
             if (data.presentase_box !== undefined) {
                 content += '<div class="mt-4 border-t pt-4">';
-                content += '<h4 class="font-semibold text-purple-600 mb-3 text-center">PRESENTASE PENJUALAN</h4>';
+                content += '<h4 class="font-semibold text-purple-600 mb-3 text-center">PRESENTASE</h4>';
                 content += '<div class="w-full">';
                 
                 // BOX Percentage
